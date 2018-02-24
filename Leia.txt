@@ -1,0 +1,11 @@
+PortalJoin.phar ( para plugin de sw que tem /sw join. )
+
+PortalEntrar.phar ( para plugin de sw que tem /sw entrar. )
+
+Plugin by Theobrz
+
+Twitter: @Theobrzpm
+
+Canal: https://www.youtube.com/channel/UCBMw_n5d5IpfWux_ITcSatw
+
+Youtube.com/Theobrz Pocketminer
